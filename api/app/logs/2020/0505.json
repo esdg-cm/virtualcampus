@@ -1,0 +1,16 @@
+[
+    {
+        "code": 0,
+        "type": "ERROR",
+        "ertype": "error",
+        "message": "Call to a member function logout() on null",
+        "file": "C:\\wamp64\\www\\elearning\\api\\app\\controllers\\AccountController.php",
+        "line": 60,
+        "date": "05.05.2020 @ 17:14",
+        "page": "192.168.8.104:8080\/api\/account\/logout",
+        "referrer": "http:\/\/192.168.8.104:8080\/api\/account\/logout",
+        "ip": "192.168.8.104",
+        "user_agent": "php-requests\/1.7",
+        "description": "An error of level 0(ERROR) was generated in file C:\\wamp64\\www\\elearning\\api\\app\\controllers\\AccountController.php on line 60.\nThe error message was: \"Call to a member function logout() on null\""
+    }
+]

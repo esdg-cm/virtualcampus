@@ -1,0 +1,72 @@
+[
+    {
+        "code": 0,
+        "type": "ERROR",
+        "ertype": "error",
+        "message": "syntax error, unexpected '>=' (T_IS_GREATER_OR_EQUAL)",
+        "file": "C:\\wamp64\\www\\elearning\\api\\app\\controllers\\Tranches_horairesController.php",
+        "line": 50,
+        "date": "29.04.2020 @ 16:49",
+        "page": "192.168.8.104:8080\/api\/tranches_horaires\/create",
+        "referrer": null,
+        "ip": "192.168.8.100",
+        "user_agent": "PostmanRuntime\/7.24.1",
+        "description": "An error of level 0(ERROR) was generated in file C:\\wamp64\\www\\elearning\\api\\app\\controllers\\Tranches_horairesController.php on line 50.\nThe error message was: \"syntax error, unexpected '>=' (T_IS_GREATER_OR_EQUAL)\""
+    },
+    {
+        "code": 0,
+        "type": "ERROR",
+        "ertype": "error",
+        "message": "syntax error, unexpected '>=' (T_IS_GREATER_OR_EQUAL)",
+        "file": "C:\\wamp64\\www\\elearning\\api\\app\\controllers\\Tranches_horairesController.php",
+        "line": 50,
+        "date": "29.04.2020 @ 16:48",
+        "page": "192.168.8.104:8080\/api\/tranches_horaires\/create",
+        "referrer": null,
+        "ip": "192.168.8.100",
+        "user_agent": "PostmanRuntime\/7.24.1",
+        "description": "An error of level 0(ERROR) was generated in file C:\\wamp64\\www\\elearning\\api\\app\\controllers\\Tranches_horairesController.php on line 50.\nThe error message was: \"syntax error, unexpected '>=' (T_IS_GREATER_OR_EQUAL)\""
+    },
+    {
+        "code": 0,
+        "type": "ERROR",
+        "ertype": "error",
+        "message": "syntax error, unexpected '>=' (T_IS_GREATER_OR_EQUAL)",
+        "file": "C:\\wamp64\\www\\elearning\\api\\app\\controllers\\Tranches_horairesController.php",
+        "line": 50,
+        "date": "29.04.2020 @ 16:48",
+        "page": "192.168.8.104:8080\/api\/tranches_horaires\/create",
+        "referrer": null,
+        "ip": "192.168.8.100",
+        "user_agent": "PostmanRuntime\/7.24.1",
+        "description": "An error of level 0(ERROR) was generated in file C:\\wamp64\\www\\elearning\\api\\app\\controllers\\Tranches_horairesController.php on line 50.\nThe error message was: \"syntax error, unexpected '>=' (T_IS_GREATER_OR_EQUAL)\""
+    },
+    {
+        "code": 0,
+        "type": "ERROR",
+        "ertype": "error",
+        "message": "syntax error, unexpected '}'",
+        "file": "C:\\wamp64\\www\\elearning\\api\\app\\models\\ChapitresModel.php",
+        "line": 48,
+        "date": "29.04.2020 @ 11:48",
+        "page": "192.168.8.104:8080\/api\/chapitres\/read",
+        "referrer": null,
+        "ip": "192.168.8.106",
+        "user_agent": "PostmanRuntime\/7.24.1",
+        "description": "An error of level 0(ERROR) was generated in file C:\\wamp64\\www\\elearning\\api\\app\\models\\ChapitresModel.php on line 48.\nThe error message was: \"syntax error, unexpected '}'\""
+    },
+    {
+        "code": 0,
+        "type": "ERROR",
+        "ertype": "error",
+        "message": "syntax error, unexpected '}'",
+        "file": "C:\\wamp64\\www\\elearning\\api\\app\\models\\ChapitresModel.php",
+        "line": 48,
+        "date": "29.04.2020 @ 11:46",
+        "page": "192.168.8.104:8080\/api\/chapitres\/read",
+        "referrer": "http:\/\/192.168.8.104:8080\/api\/chapitres\/read",
+        "ip": "192.168.8.104",
+        "user_agent": "php-requests\/1.7",
+        "description": "An error of level 0(ERROR) was generated in file C:\\wamp64\\www\\elearning\\api\\app\\models\\ChapitresModel.php on line 48.\nThe error message was: \"syntax error, unexpected '}'\""
+    }
+]

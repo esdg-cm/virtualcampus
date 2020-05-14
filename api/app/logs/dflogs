@@ -1,0 +1,8 @@
+[25-Apr-2020 15:57:53 UTC] PHP Fatal error:  Cannot redeclare ClassesController::read() in C:\wamp64\www\elearning\api\app\controllers\ClassesController.php on line 188
+[25-Apr-2020 15:57:53 UTC] PHP Stack trace:
+[25-Apr-2020 15:57:53 UTC] PHP   1. {main}() C:\wamp64\www\elearning\api\public\index.php:0
+[25-Apr-2020 15:57:53 UTC] PHP   2. dFramework\core\dFramework::init() C:\wamp64\www\elearning\api\public\index.php:22
+[25-Apr-2020 15:57:53 UTC] PHP   3. dFramework\core\route\Router::init() C:\wamp64\www\elearning\df-system\core\dFramework.php:90
+[25-Apr-2020 15:57:53 UTC] PHP   4. dFramework\core\route\Router->run() C:\wamp64\www\elearning\df-system\core\route\Router.php:123
+[25-Apr-2020 15:57:53 UTC] PHP   5. dFramework\core\route\Dispatcher::init() C:\wamp64\www\elearning\df-system\core\route\Router.php:233
+[25-Apr-2020 15:57:53 UTC] PHP   6. dFramework\core\route\Dispatcher::loadController() C:\wamp64\www\elearning\df-system\core\route\Dispatcher.php:126

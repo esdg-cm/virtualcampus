@@ -1,0 +1,44 @@
+[
+    {
+        "code": "42S22",
+        "type": "ERROR",
+        "ertype": "error",
+        "message": "SQLSTATE[42S22]: Column not found: 1054 Champ 'id_tranche' inconnu dans where clause",
+        "file": "C:\\wamp64\\www\\elearning\\df-system\\core\\db\\Query.php",
+        "line": 437,
+        "date": "02.05.2020 @ 15:33",
+        "page": "192.168.8.104:8080\/api\/tranches_horaires\/delete",
+        "referrer": null,
+        "ip": "192.168.8.103",
+        "user_agent": "PostmanRuntime\/7.24.1",
+        "description": "An error of level 42S22(ERROR) was generated in file C:\\wamp64\\www\\elearning\\df-system\\core\\db\\Query.php on line 437.\nThe error message was: \"SQLSTATE[42S22]: Column not found: 1054 Champ 'id_tranche' inconnu dans where clause\""
+    },
+    {
+        "code": 0,
+        "type": "ERROR",
+        "ertype": "error",
+        "message": "Call to undefined method Tranches_horairesModel::edit_with_id()",
+        "file": "C:\\wamp64\\www\\elearning\\api\\app\\controllers\\Tranches_horairesController.php",
+        "line": 135,
+        "date": "02.05.2020 @ 13:38",
+        "page": "192.168.8.104:8080\/api\/tranches_horaires\/put",
+        "referrer": null,
+        "ip": "192.168.8.103",
+        "user_agent": "PostmanRuntime\/7.24.1",
+        "description": "An error of level 0(ERROR) was generated in file C:\\wamp64\\www\\elearning\\api\\app\\controllers\\Tranches_horairesController.php on line 135.\nThe error message was: \"Call to undefined method Tranches_horairesModel::edit_with_id()\""
+    },
+    {
+        "code": 0,
+        "type": "ERROR",
+        "ertype": "error",
+        "message": "Call to undefined method Tranches_horairesModel::edit_with_id()",
+        "file": "C:\\wamp64\\www\\elearning\\api\\app\\controllers\\Tranches_horairesController.php",
+        "line": 135,
+        "date": "02.05.2020 @ 13:35",
+        "page": "192.168.8.104:8080\/api\/tranches_horaires\/put",
+        "referrer": null,
+        "ip": "192.168.8.103",
+        "user_agent": "PostmanRuntime\/7.24.1",
+        "description": "An error of level 0(ERROR) was generated in file C:\\wamp64\\www\\elearning\\api\\app\\controllers\\Tranches_horairesController.php on line 135.\nThe error message was: \"Call to undefined method Tranches_horairesModel::edit_with_id()\""
+    }
+]

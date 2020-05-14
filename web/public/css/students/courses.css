@@ -1,0 +1,40 @@
+@import '../fixed-plugin.css';
+
+.fixed-plugin {
+  top: 18.5%;
+}
+
+.fixed-plugin .fixed-content {
+  width: 35em;
+  top: -45px !important;
+}
+@media (max-width: 768px) {
+    .fixed-plugin {
+        top: 25%;
+    }
+    .fixed-plugin .fixed-content {
+        width: 27em;
+    }
+}
+@media (max-width: 384px) {
+    .fixed-plugin {
+        top: 20.75%;
+    }
+    .fixed-plugin .fixed-content {
+        width: 18em;
+    }
+}
+.fixed-plugin .fixed-header {
+  border-bottom: none;
+}
+
+.fixed-plugin .tab-content > div:first-child {
+  max-height: 27em;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+@media (max-width: 768px) {
+  .fixed-plugin .tab-content > div:first-child {
+    max-height: 23em;
+  }
+}

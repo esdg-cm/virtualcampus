@@ -1,0 +1,16 @@
+#questions-slides.owl-theme {
+  position: relative;
+}
+#questions-slides  .owl-next, #questions-slides .owl-prev {
+    width: 22px;
+    height: 40px;
+    margin-top: -20px;
+    position: absolute;
+    top: 50%;
+}
+#questions-slides .owl-prev {
+    left: 10px;
+}
+#questions-slides  .owl-next {
+    right: 10px;
+  }

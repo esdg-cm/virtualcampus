@@ -1,0 +1,9 @@
+#editor .second-toolbar a#logo,
+#editor .fr-wrapper.show-placeholder > div:first-child,
+#editor .fr-wrapper > div:first-child{
+    opacity: 0 !important;
+    visibility: hidden !important;
+    width: 0 !important;
+    height: 0 !important;
+    display: none !important;
+}

@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "depot elearning",
+			"path": "..\\depot elearning"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.sql": "plsql",
+			"TP1.C": "cpp"
+		}
+	}
+}

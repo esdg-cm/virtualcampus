@@ -1,0 +1,207 @@
+#chat-content .btn-secondary {
+    color: #4d5259 !important;
+    background-color: #e4e7ea;
+    border-color: #e4e7ea;
+    color: #fff
+}
+
+#chat-content .btn-xs {
+    font-size: 11px;
+    padding: 2px 8px;
+    line-height: 18px
+}
+
+
+#chat-content .ps-container {
+    position: relative;
+    -ms-touch-action: auto;
+    touch-action: auto;
+    overflow: hidden !important;
+    -ms-overflow-style: none;
+    height: 22em !important;
+}
+@media(max-width: 768px) {
+    #chat-content .ps-container {
+        height: 17.5em !important;
+    }
+}
+
+#chat-content .media-chat {
+    padding-right: 64px;
+    margin-bottom: 0
+}
+
+#chat-content .media {
+    padding: 16px 12px;
+    -webkit-transition: background-color .2s linear;
+    transition: background-color .2s linear
+}
+
+#chat-content .media .avatar {
+    flex-shrink: 0
+}
+
+#chat-content .avatar {
+    position: relative;
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    border-radius: 100%;
+    background-color: #f5f6f7;
+    color: #8b95a5;
+    text-transform: uppercase
+}
+
+#chat-content .media-chat .media-body {
+    -webkit-box-flex: initial;
+    flex: initial;
+    display: table
+}
+
+#chat-content .media-body {
+    min-width: 0
+}
+
+#chat-content .media-chat .media-body p {
+    position: relative;
+    padding: 6px 8px;
+    margin: 4px 0;
+    background-color: #f5f6f7;
+    border-radius: 3px;
+    font-weight: 100;
+    color: #9b9b9b
+}
+
+#chat-content .media>* {
+    margin: 0 8px
+}
+
+#chat-content .media-chat .media-body p.meta {
+    background-color: transparent !important;
+    padding: 0;
+    opacity: .8
+}
+
+#chat-content .media-meta-day {
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-bottom: 0;
+    color: #8b95a5;
+    opacity: .8;
+    font-weight: 400
+}
+
+#chat-content .media-meta-day::before {
+    margin-right: 16px
+}
+
+#chat-content .media-meta-day::before,
+#chat-content .media-meta-day::after {
+    content: '';
+    -webkit-box-flex: 1;
+    flex: 1 1;
+    border-top: 1px solid #ebebeb
+}
+
+#chat-content .media-meta-day::after {
+    content: '';
+    -webkit-box-flex: 1;
+    flex: 1 1;
+    border-top: 1px solid #ebebeb
+}
+
+#chat-content .media-meta-day::after {
+    margin-left: 16px
+}
+
+#chat-content .media-chat.media-chat-reverse {
+    padding-right: 12px;
+    padding-left: 64px;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+    flex-direction: row-reverse
+}
+
+#chat-content .media-chat {
+    padding-right: 64px;
+    margin-bottom: 0
+}
+
+#chat-content .media-chat.media-chat-reverse .media-body p {
+    float: right;
+    clear: right;
+    background-color: #48b0f7;
+    color: #fff
+}
+#chat-content .media-chat.media-chat.media-chat-reverse .media-body p.meta {
+    color: #000;
+}
+
+#chat-content .media-chat .media-body p {
+    position: relative;
+    padding: 6px 8px;
+    margin: 4px 0;
+    background-color: #f5f6f7;
+    border-radius: 3px
+}
+
+#chat-content .bt-1 {
+    border-top: 1px solid #ebebeb !important
+}
+
+#chat-content .publisher {
+    position: relative;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 12px 20px;
+    background-color: #f9fafb
+}
+
+#chat-content .publisher>*:first-child {
+    margin-left: 0
+}
+
+#chat-content .publisher>* {
+    margin: 0 8px
+}
+
+#chat-content .publisher-input {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    border: none;
+    outline: none !important;
+    background-color: transparent
+}
+
+#chat-content .publisher-btn {
+    background-color: transparent;
+    border: none;
+    color: #cac7c7;
+    font-size: 16px;
+    cursor: pointer;
+    overflow: -moz-hidden-unscrollable;
+    -webkit-transition: .2s linear;
+    transition: .2s linear
+}
+
+#chat-content .file-group {
+    position: relative;
+    overflow: hidden
+}
+
+#chat-content .file-group input[type="file"] {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+    width: 20px
+}
+
+#chat-content .text-info {
+    color: #48b0f7 !important
+}
